@@ -15,12 +15,11 @@
       "dialect": "mysql"
     },
     "production": {
-      "username": "root",
-      "password": "Loveumom",
-      "database": "luckykingplay",
-      "host": "127.0.0.1",
-      "dialect": "mysql",
-      "operatorsAliases": false
+      "username": "u165789194_luckykingplay",
+      "password": "Lucky@123",
+      "database": "u165789194_luckykingplay",
+      "host": "sql315.main-hosting.eu",
+      "dialect": "mysql"
     },
     "backup": {
       "username": "root",
